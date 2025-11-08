@@ -1,0 +1,27 @@
+{
+  "name": "Rich Milli Coin",
+  "symbol": "RMC",
+  "description": "Rich Milli Coin (RMC) — a Solana-based, community-driven token with LP-backed stability and retail cash-back utility.",
+  "image": "https://6v8tyqgg8b-hub.github.io/rmc-v2/logo_v2.png",
+  "external_url": "https://richmillicoin.com",
+  "attributes": [
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Category", "value": "Community / Meme" }
+  ],
+  "extensions": {
+    "website": "https://richmillicoin.com",
+    "twitter": "https://x.com/richmillicoin",
+    "telegram": "https://t.me/RichMilliCoin",
+    "raydium_sol": "https://raydium.io/swap/?inputMint=sol&outputMint=4jKyYTrgrrGmERdpsiQtUkgWzRzcMR5769smFsgXpump",
+    "raydium_usdc": "https://raydium.io/swap/?inputMint=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&outputMint=4jKyYTrgrrGmERdpsiQtUkgWzRzcMR5769smFsgXpump"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://6v8tyqgg8b-hub.github.io/rmc-v2/logo_v2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
