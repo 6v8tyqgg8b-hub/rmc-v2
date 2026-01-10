@@ -12,8 +12,8 @@
     "website": "https://richmillicoin.com",
     "twitter": "https://x.com/richmillicoin",
     "telegram": "https://t.me/RichMilliCoin",
-    "raydium_sol": "https://raydium.io/swap/?inputMint=sol&outputMint=4jKyYTrgrrGmERdpsiQtUkgWzRzcMR5769smFsgXpump",
-    "raydium_usdc": "https://raydium.io/swap/?inputMint=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&outputMint=4jKyYTrgrrGmERdpsiQtUkgWzRzcMR5769smFsgXpump"
+    "raydium_sol": "https://raydium.io/swap/?inputMint=sol&outputMint=E4WZzxRB6hc1Pd6qZAq6QnYemfFT3iwUydqPjzVaPJqE
+    "raydium_usdc": "https://raydium.io/swap/?inputMint=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&outputMint=E4WZzxRB6hc1Pd6qZAq6QnYemfFT3iwUydqPjzVaPJqE"
   },
   "properties": {
     "category": "image",
